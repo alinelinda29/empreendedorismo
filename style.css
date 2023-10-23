@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.cabecalho{
+    background-color: rgb(190, 54, 54);
+    text-align: center;
+    font-style: italic;
+}
+
+body{
+    background-color: rgb(116, 17, 17);
+}
+
+.secao1{
+    display: flex;
+}
+
+.imagem{
+    width: 400px;
+}
+
+.text{
+    font-size: 100px;
+}
